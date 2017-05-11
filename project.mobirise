@@ -157,7 +157,7 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.gracetucson.org\" data-toolbar=\"-mbrBtnMove\">Listen to Sunday's teaching</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"http://www.gracetucson.org\" data-toolbar=\"-mbrBtnMove\">Get information for your first visit</a>",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "80px"
             }
           }
         },
