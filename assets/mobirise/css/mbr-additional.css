@@ -731,6 +731,18 @@ h6,
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#extFeatures12-a .card-number {
+  color: #c0a375;
+}
+#extFeatures12-a .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-a .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-a H3 {
+  font-size: 72px;
+}
 #contacts3-9 LI {
   color: #bcbcbc;
 }
